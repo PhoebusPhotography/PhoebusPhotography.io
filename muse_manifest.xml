@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="phoebuspg.cf" resolutions="1x" timestamp="1513678403553">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="phoebuspg.cf" resolutions="1x" timestamp="1513681167404">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="375969528" ref="urban:index:ioan-marathon:architecture:exavda:jobs:portraits:nature---landscape:projects:aiesec"/>
@@ -5144,14 +5144,14 @@
       <caption webpage="urban" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3832874463" seo="true" mt="1513678280215" redirect="true"/>
-  <file name="jobs.html" crc="384238348" seo="true" mt="1513678280215" redirect="true"/>
-  <file name="aiesec.html" crc="85585434" seo="true" mt="1513678280215" redirect="true"/>
-  <file name="ioan-marathon.html" crc="380995428" seo="true" mt="1513678280215" redirect="true"/>
-  <file name="exavda.html" crc="254903773" seo="true" mt="1513678280215" redirect="true"/>
-  <file name="projects.html" crc="48485173" seo="true" mt="1513678280215" redirect="true"/>
-  <file name="portraits.html" crc="62665023" seo="true" mt="1513678280215" redirect="true"/>
-  <file name="architecture.html" crc="151336146" seo="true" mt="1513678280215" redirect="true"/>
-  <file name="nature---landscape.html" crc="3765310176" seo="true" mt="1513678280215" redirect="true"/>
-  <file name="urban.html" crc="205107189" seo="true" mt="1513678280215" redirect="true"/>
+  <file name="index.html" crc="3798065993" seo="true" mt="1513681022230" redirect="true"/>
+  <file name="jobs.html" crc="100803470" seo="true" mt="1513681022230" redirect="true"/>
+  <file name="aiesec.html" crc="4277428473" seo="true" mt="1513681022230" redirect="true"/>
+  <file name="ioan-marathon.html" crc="272034609" seo="true" mt="1513681022230" redirect="true"/>
+  <file name="exavda.html" crc="3820669327" seo="true" mt="1513681022230" redirect="true"/>
+  <file name="projects.html" crc="4079141941" seo="true" mt="1513681022230" redirect="true"/>
+  <file name="portraits.html" crc="4035910829" seo="true" mt="1513681022230" redirect="true"/>
+  <file name="architecture.html" crc="44364064" seo="true" mt="1513681022230" redirect="true"/>
+  <file name="nature---landscape.html" crc="3803947240" seo="true" mt="1513681022230" redirect="true"/>
+  <file name="urban.html" crc="209662676" seo="true" mt="1513681022230" redirect="true"/>
 </manifest>
