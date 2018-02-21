@@ -1,52 +1,49 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="phoebuspg.cf" resolutions="1x" timestamp="1519173903460">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="phoebuspg.cf" resolutions="1x" timestamp="1514670364768">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4021202944" ref="urban:architecture:exavda:jobs:index:nature---landscape:projects:aiesec:contact:portraits:ioan-marathon"/>
-    <file name="nomq_preview_master_a-master.css" crc="50406385" ref="urban:architecture:exavda:jobs:index:nature---landscape:projects:aiesec:contact:portraits:ioan-marathon"/>
-    <file name="urban.css" crc="454626395" ref="urban"/>
-    <file name="nomq_urban.css" crc="4031274415" ref="urban"/>
-    <file name="architecture.css" crc="4178436521" ref="architecture"/>
-    <file name="nomq_architecture.css" crc="429950586" ref="architecture"/>
-    <file name="exavda.css" crc="4251113517" ref="exavda"/>
+    <file name="master_a-master.css" crc="4161079453" ref="architecture:exavda:jobs:portraits:nature---landscape:projects:aiesec:urban:index:ioan-marathon"/>
+    <file name="nomq_preview_master_a-master.css" crc="50406385" ref="architecture:exavda:jobs:portraits:nature---landscape:projects:aiesec:urban:index:ioan-marathon"/>
+    <file name="architecture.css" crc="3939425117" ref="architecture"/>
+    <file name="nomq_architecture.css" crc="313351096" ref="architecture"/>
+    <file name="exavda.css" crc="924624" ref="exavda"/>
     <file name="nomq_exavda.css" crc="104586937" ref="exavda"/>
-    <file name="jobs.css" crc="284339050" ref="jobs"/>
+    <file name="jobs.css" crc="17067056" ref="jobs"/>
     <file name="nomq_jobs.css" crc="490624203" ref="jobs"/>
-    <file name="index.css" crc="480454441" ref="index"/>
-    <file name="nomq_index.css" crc="3909645318" ref="index"/>
-    <file name="nature---landscape.css" crc="3847399566" ref="nature---landscape"/>
-    <file name="nomq_nature---landscape.css" crc="17002968" ref="nature---landscape"/>
-    <file name="projects.css" crc="4231269273" ref="projects"/>
-    <file name="nomq_projects.css" crc="128885873" ref="projects"/>
-    <file name="aiesec.css" crc="3940264187" ref="aiesec"/>
-    <file name="nomq_aiesec.css" crc="370761577" ref="aiesec"/>
-    <file name="contact.css" crc="4247834377" ref="contact"/>
-    <file name="nomq_contact.css" crc="319598759" ref="contact"/>
-    <file name="portraits.css" crc="3892982572" ref="portraits"/>
+    <file name="portraits.css" crc="87252559" ref="portraits"/>
     <file name="nomq_portraits.css" crc="194767852" ref="portraits"/>
-    <file name="ioan-marathon.css" crc="208589030" ref="ioan-marathon"/>
+    <file name="nature---landscape.css" crc="4173059480" ref="nature---landscape"/>
+    <file name="nomq_nature---landscape.css" crc="3965331406" ref="nature---landscape"/>
+    <file name="projects.css" crc="3940067481" ref="projects"/>
+    <file name="nomq_projects.css" crc="128885873" ref="projects"/>
+    <file name="aiesec.css" crc="267662493" ref="aiesec"/>
+    <file name="nomq_aiesec.css" crc="370761577" ref="aiesec"/>
+    <file name="urban.css" crc="247084094" ref="urban"/>
+    <file name="nomq_urban.css" crc="476313946" ref="urban"/>
+    <file name="index.css" crc="162289300" ref="index"/>
+    <file name="nomq_index.css" crc="3913082549" ref="index"/>
+    <file name="ioan-marathon.css" crc="316489909" ref="ioan-marathon"/>
     <file name="nomq_ioan-marathon.css" crc="184387662" ref="ioan-marathon"/>
   </folder>
+  <folder name="assets">
+    <file name="dsc_0079.nef" crc="4147776410" seo="true" mt="1512339084000"/>
+  </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="museutils.js" crc="46400467" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="museconfig.js" crc="436936948" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="jquery.musemenu.js" crc="3936200140" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="webpro.js" crc="4152390327" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="museutils.js" crc="46400467" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="whatinput.js" crc="86476730" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="museconfig.js" crc="436936948" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="webpro.js" crc="4152390327" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
     <file name="musewpslideshow.js" crc="380562115" ref="index:aiesec:ioan-marathon:exavda:portraits:architecture:nature---landscape:urban"/>
     <file name="jquery.museoverlay.js" crc="3986278607" ref="index:aiesec:ioan-marathon:exavda:portraits:architecture:nature---landscape:urban"/>
     <file name="touchswipe.js" crc="4228958816" ref="index:aiesec:ioan-marathon:exavda:portraits:architecture:nature---landscape:urban"/>
-    <file name="musewpdisclosure.js" crc="204784597" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
     <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="jquery.museresponsive.js" crc="52098982" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="require.js" crc="85721165" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="form_check.php" crc="4286608207" ref="contact"/>
-    <file name="form_throttle.php" crc="313199896" ref="contact"/>
-    <file name="form_process.php" crc="3855659497" ref="contact"/>
-    <file name="form-u160030.php" crc="3802784313" ref="contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="require.js" crc="85721165" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="392601853" ref="index"/>
@@ -59,9 +56,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="jobs" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
     </file>
     <file name="facebook-logo.png" crc="536300434" ref="index:jobs:ioan-marathon">
       <caption webpage="index" alt=""/>
@@ -72,11 +69,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="jobs" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
     </file>
-    <file name="logo.jpg" crc="4171313757" seo="true" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact">
+    <file name="logo.jpg" crc="4171313757" seo="true" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban">
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
@@ -84,6 +81,20 @@
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
       <caption webpage="exavda" alt=""/>
       <caption webpage="exavda" alt=""/>
       <caption webpage="exavda" alt=""/>
@@ -98,35 +109,6 @@
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="jobs" alt=""/>
       <caption webpage="jobs" alt=""/>
       <caption webpage="jobs" alt=""/>
@@ -134,6 +116,14 @@
       <caption webpage="jobs" alt=""/>
       <caption webpage="jobs" alt=""/>
       <caption webpage="jobs" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
@@ -141,13 +131,6 @@
       <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
@@ -155,21 +138,28 @@
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u164-4.png" crc="4071547513" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u404-4.png" crc="330976670" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u432-4.png" crc="365649354" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u460-4.png" crc="384315627" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u520-4.png" crc="3830815469" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
+    <file name="blank.gif" crc="4208392903" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u164-4.png" crc="4071547513" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u404-4.png" crc="330976670" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u432-4.png" crc="4143494307" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u460-4.png" crc="384315627" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u520-4.png" crc="3830815469" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
     <file name="20170930-dsc_0334.jpg" crc="497989515" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u2819-4.png" crc="4102224647" ref="index"/>
-    <file name="u2967_states.png" crc="165575461" ref="index"/>
-    <file name="u2967_states-r.png" crc="4258946387" ref="index"/>
+    <file name="u2967.png" crc="3915362351" ref="index"/>
+    <file name="u2967-r.png" crc="3783368305" ref="index"/>
     <file name="u10644-7.png" crc="76476153" ref="index"/>
-    <file name="20171208-20171208_145426-01.jpg" crc="148545176" seo="true" ref="index">
+    <file name="20171208-20171208_145426-01.jpg" crc="3833623716" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -179,45 +169,22 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="por.jpg" crc="4135780842" ref="index:projects">
+    <file name="arch landscape.jpg" crc="328727419" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="nl.jpg" crc="268140908" ref="index:projects">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="arch.jpg" crc="110310505" ref="index:projects">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="urban.jpg" crc="4149776338" ref="index:projects">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="eve.jpg" crc="126918130" ref="index">
+    <file name="portrait event.jpg" crc="4216833498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -226,297 +193,291 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u19682-4.png" crc="407463074" ref="index"/>
-    <file name="20170430-dsc_1235.jpg" crc="3809335916" seo="true" ref="index">
+    <file name="20170430-dsc_1235.jpg" crc="271293082" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277.jpg" crc="3831916226" seo="true" ref="index">
+    <file name="20170717-dsc_0277.jpg" crc="4254941921" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2.jpg" crc="533436726" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2.jpg" crc="4215180034" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4.jpg" crc="4110141031" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4.jpg" crc="4280473566" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2.jpg" crc="4244626188" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2.jpg" crc="3873663537" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1.jpg" crc="376851897" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1.jpg" crc="312710032" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259.jpg" crc="167888943" seo="true" ref="index">
+    <file name="20171118-dsc_0259.jpg" crc="3959531267" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010.jpg" crc="4103598721" seo="true" ref="index">
+    <file name="20171124-dsc_0010.jpg" crc="4013213986" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037.jpg" crc="4205030092" seo="true" ref="index">
+    <file name="20171126-dsc_0037.jpg" crc="3967468152" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2.jpg" crc="152460180" seo="true" ref="index">
+    <file name="20171129-best-2.jpg" crc="216001631" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170430-dsc_1235128x85.jpg" crc="87204724" seo="true" ref="index">
+    <file name="20170430-dsc_1235128x85.jpg" crc="418892734" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277128x85.jpg" crc="335625616" seo="true" ref="index">
+    <file name="20170717-dsc_0277128x85.jpg" crc="4068866949" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2128x85.jpg" crc="477694455" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2128x85.jpg" crc="272226283" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4128x85.jpg" crc="4168491615" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4128x85.jpg" crc="160902983" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2128x85.jpg" crc="4224886662" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2128x85.jpg" crc="5479877" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1128x85.jpg" crc="4143223232" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1128x85.jpg" crc="345277935" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259128x85.jpg" crc="4022632181" seo="true" ref="index">
+    <file name="20171118-dsc_0259128x85.jpg" crc="4111474825" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010128x85.jpg" crc="325026222" seo="true" ref="index">
+    <file name="20171124-dsc_0010128x85.jpg" crc="3901886725" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037128x85.jpg" crc="3899150658" seo="true" ref="index">
+    <file name="20171126-dsc_0037128x85.jpg" crc="296524890" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2128x85.jpg" crc="3768917184" seo="true" ref="index">
+    <file name="20171129-best-2128x85.jpg" crc="277146527" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:aiesec:ioan-marathon:exavda:portraits:architecture:nature---landscape:urban"/>
-    <file name="u2626-4.png" crc="4140838651" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
+    <file name="u2626-4.png" crc="4140838651" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
     <file name="20170930-dsc_0334-u2697-fr.jpg" crc="4285863461" ref="index"/>
     <file name="u2819-42.png" crc="467004132" ref="index"/>
-    <file name="u2967_states2.png" crc="367923775" ref="index"/>
-    <file name="u2967_states-r2.png" crc="4288170238" ref="index"/>
+    <file name="u29672.png" crc="419679807" ref="index"/>
+    <file name="u2967-r2.png" crc="4265158867" ref="index"/>
     <file name="u10644-72.png" crc="76476153" ref="index"/>
-    <file name="por-u161623-fr.jpg" crc="411799230" ref="index"/>
-    <file name="nl-u161551-fr.jpg" crc="3794980220" ref="index"/>
-    <file name="arch-u161560-fr.jpg" crc="4261157396" ref="index"/>
-    <file name="urban-u161581-fr.jpg" crc="55320845" ref="index"/>
     <file name="20170929-dsc_0141-2-u16514-fr.jpg" crc="4016662274" ref="index"/>
     <file name="u19682-42.png" crc="407463074" ref="index"/>
-    <file name="20170430-dsc_1235623x416.jpg" crc="4275522109" seo="true" ref="index">
+    <file name="20170430-dsc_1235623x416.jpg" crc="521618471" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277623x416.jpg" crc="477473531" seo="true" ref="index">
+    <file name="20170717-dsc_0277623x416.jpg" crc="291846599" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2623x416.jpg" crc="4098889147" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2623x416.jpg" crc="504100686" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4623x416.jpg" crc="26426199" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4623x416.jpg" crc="4180659883" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2623x416.jpg" crc="4198778967" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2623x416.jpg" crc="4291381257" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1623x416.jpg" crc="344096180" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1623x416.jpg" crc="4112956033" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259623x416.jpg" crc="1111164" seo="true" ref="index">
+    <file name="20171118-dsc_0259623x416.jpg" crc="66168921" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010623x416.jpg" crc="30050059" seo="true" ref="index">
+    <file name="20171124-dsc_0010623x416.jpg" crc="47030829" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037623x416.jpg" crc="452786331" seo="true" ref="index">
+    <file name="20171126-dsc_0037623x416.jpg" crc="4277369201" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2623x416.jpg" crc="3962591342" seo="true" ref="index">
+    <file name="20171129-best-2623x416.jpg" crc="3791745477" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170430-dsc_1235155x104.jpg" crc="3821246199" seo="true" ref="index">
+    <file name="20170430-dsc_1235155x103.jpg" crc="4009009121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277155x104.jpg" crc="4267150132" seo="true" ref="index">
+    <file name="20170717-dsc_0277155x103.jpg" crc="175657259" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2155x104.jpg" crc="4222933814" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2155x103.jpg" crc="4056239281" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4155x104.jpg" crc="4197270995" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4155x103.jpg" crc="69452607" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2155x104.jpg" crc="487264074" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2155x103.jpg" crc="191938981" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1155x104.jpg" crc="313478285" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1155x103.jpg" crc="4164459088" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259155x103.jpg" crc="127071388" seo="true" ref="index">
+    <file name="20171118-dsc_0259155x103.jpg" crc="473579835" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010155x104.jpg" crc="3759191511" seo="true" ref="index">
+    <file name="20171124-dsc_0010155x103.jpg" crc="4081010870" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037155x103.jpg" crc="4290664135" seo="true" ref="index">
+    <file name="20171126-dsc_0037155x103.jpg" crc="177624011" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2155x104.jpg" crc="291539605" seo="true" ref="index">
+    <file name="20171129-best-2155x103.jpg" crc="3935847614" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="20170930-dsc_0334-u2697-fr2.jpg" crc="4129728365" ref="index"/>
     <file name="u2819-43.png" crc="3924717611" ref="index"/>
-    <file name="u2967_states3.png" crc="306968045" ref="index"/>
-    <file name="u2967_states-r3.png" crc="4097053307" ref="index"/>
+    <file name="u29673.png" crc="93639215" ref="index"/>
+    <file name="u2967-r3.png" crc="3836184196" ref="index"/>
     <file name="u10644-73.png" crc="76476153" ref="index"/>
-    <file name="por-u161623-fr2.jpg" crc="3893290388" ref="index"/>
-    <file name="nl-u161551-fr2.jpg" crc="3961550711" ref="index"/>
-    <file name="arch-u161560-fr2.jpg" crc="4103593621" ref="index"/>
-    <file name="urban-u161581-fr2.jpg" crc="20648664" ref="index"/>
-    <file name="eve-u161602-fr.jpg" crc="4275837306" ref="index"/>
     <file name="20170929-dsc_0141-2-u16514-fr2.jpg" crc="197578874" ref="index"/>
     <file name="u19682-43.png" crc="4226650075" ref="index"/>
-    <file name="20170430-dsc_1235368x245.jpg" crc="345113910" seo="true" ref="index">
+    <file name="20170430-dsc_1235368x245.jpg" crc="467413436" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277370x247.jpg" crc="4019444908" seo="true" ref="index">
+    <file name="20170717-dsc_0277370x247.jpg" crc="451280229" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2370x247.jpg" crc="210106651" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2370x247.jpg" crc="4180240431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4370x247.jpg" crc="197726169" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4370x247.jpg" crc="4096894316" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2370x247.jpg" crc="91011344" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2370x247.jpg" crc="243810648" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1370x247.jpg" crc="3916918126" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1370x247.jpg" crc="46894213" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259371x247.jpg" crc="4224627110" seo="true" ref="index">
+    <file name="20171118-dsc_0259371x247.jpg" crc="110391917" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010370x247.jpg" crc="3847958945" seo="true" ref="index">
+    <file name="20171124-dsc_0010370x247.jpg" crc="3898881583" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037371x247.jpg" crc="3795989756" seo="true" ref="index">
+    <file name="20171126-dsc_0037371x247.jpg" crc="3966485120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2370x247.jpg" crc="499301858" seo="true" ref="index">
+    <file name="20171129-best-2370x247.jpg" crc="150183250" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170430-dsc_1235119x79.jpg" crc="60231747" seo="true" ref="index">
+    <file name="20170430-dsc_1235119x80.jpg" crc="3908197413" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277119x80.jpg" crc="139195287" seo="true" ref="index">
+    <file name="20170717-dsc_0277119x80.jpg" crc="4058785616" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2119x80.jpg" crc="3935265307" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2119x80.jpg" crc="98571877" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4119x80.jpg" crc="375727454" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4119x80.jpg" crc="81003809" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2119x80.jpg" crc="442319103" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2119x80.jpg" crc="406265031" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1119x80.jpg" crc="4219370218" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1119x80.jpg" crc="308887056" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259119x79.jpg" crc="368355369" seo="true" ref="index">
+    <file name="20171118-dsc_0259119x79.jpg" crc="265379394" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010119x80.jpg" crc="4026525678" seo="true" ref="index">
+    <file name="20171124-dsc_0010119x80.jpg" crc="3999741835" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037119x79.jpg" crc="487260665" seo="true" ref="index">
+    <file name="20171126-dsc_0037119x79.jpg" crc="3964081282" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2119x80.jpg" crc="239340009" seo="true" ref="index">
+    <file name="20171129-best-2119x80.jpg" crc="4181682003" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u2819-44.png" crc="42161602" ref="index"/>
-    <file name="u2967_states4.png" crc="3937850514" ref="index"/>
-    <file name="u2967_states-r4.png" crc="4024931300" ref="index"/>
+    <file name="u29674.png" crc="80256776" ref="index"/>
+    <file name="u2967-r4.png" crc="4020327704" ref="index"/>
     <file name="u10644-74.png" crc="76476153" ref="index"/>
-    <file name="por-u161623-fr3.jpg" crc="4181153939" ref="index"/>
-    <file name="eve-u161602-fr2.jpg" crc="10482610" ref="index"/>
-    <file name="nl-u161551-fr3.jpg" crc="4266741027" ref="index"/>
-    <file name="arch-u161560-fr3.jpg" crc="403829810" ref="index"/>
-    <file name="urban-u161581-fr3.jpg" crc="3772846902" ref="index"/>
     <file name="20170929-dsc_0141-2-u16514-fr3.jpg" crc="190135625" ref="index"/>
     <file name="u19682-44.png" crc="4080589875" ref="index"/>
-    <file name="20170430-dsc_1235533x355.jpg" crc="137714054" seo="true" ref="index">
+    <file name="20170430-dsc_1235533x355.jpg" crc="4227457626" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277539x359.jpg" crc="223616761" seo="true" ref="index">
+    <file name="20170717-dsc_0277539x359.jpg" crc="3848966872" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2539x359.jpg" crc="4016451320" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2539x359.jpg" crc="4115429911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4539x359.jpg" crc="3864508611" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4539x359.jpg" crc="361431546" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2539x359.jpg" crc="4289930714" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2539x359.jpg" crc="4200885924" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1539x359.jpg" crc="4252330470" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1539x359.jpg" crc="4226420592" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259539x359.jpg" crc="4275681211" seo="true" ref="index">
+    <file name="20171118-dsc_0259539x359.jpg" crc="373375809" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010539x359.jpg" crc="3889779516" seo="true" ref="index">
+    <file name="20171124-dsc_0010539x359.jpg" crc="324952239" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037539x359.jpg" crc="4176826391" seo="true" ref="index">
+    <file name="20171126-dsc_0037539x359.jpg" crc="291415578" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2539x359.jpg" crc="3830239370" seo="true" ref="index">
+    <file name="20171129-best-2539x359.jpg" crc="3932596683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170430-dsc_1235-crop-u25589.jpg" crc="4030293093" seo="true" ref="index">
+    <file name="20170430-dsc_1235-crop-u25589.jpg" crc="522983455" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277-crop-u25968.jpg" crc="3894858146" seo="true" ref="index">
+    <file name="20170717-dsc_0277-crop-u25968.jpg" crc="95379451" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2-crop-u26060.jpg" crc="4050431909" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2-crop-u26060.jpg" crc="3809694776" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4-crop-u26152.jpg" crc="4191590346" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4-crop-u26152.jpg" crc="4225639848" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2-crop-u26244.jpg" crc="438089304" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2-crop-u26244.jpg" crc="3875005539" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1-crop-u26336.jpg" crc="472860200" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1-crop-u26336.jpg" crc="4203579758" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259-crop-u26428.jpg" crc="432499190" seo="true" ref="index">
+    <file name="20171118-dsc_0259-crop-u26428.jpg" crc="119720741" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010-crop-u26520.jpg" crc="3901303" seo="true" ref="index">
+    <file name="20171124-dsc_0010-crop-u26520.jpg" crc="5157403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037-crop-u26612.jpg" crc="94135075" seo="true" ref="index">
+    <file name="20171126-dsc_0037-crop-u26612.jpg" crc="4192480111" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2-crop-u26704.jpg" crc="3996010644" seo="true" ref="index">
+    <file name="20171129-best-2-crop-u26704.jpg" crc="3991790971" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="menubtn.png" crc="4230516719" seo="true" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact">
+    <file name="menubtn.png" crc="438941767" seo="true" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban">
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
       <caption webpage="exavda" alt=""/>
       <caption webpage="exavda" alt=""/>
       <caption webpage="exavda" alt=""/>
@@ -525,297 +486,271 @@
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="jobs" alt=""/>
       <caption webpage="jobs" alt=""/>
       <caption webpage="jobs" alt=""/>
       <caption webpage="jobs" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
     </file>
-    <file name="u2065.png" crc="4093960623" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u2065-r.png" crc="3945395019" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u2155.png" crc="3799770612" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u2155-r.png" crc="4284096477" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u2228.png" crc="155898166" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u2228-r.png" crc="94737074" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u2299.png" crc="82337802" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u2299-r.png" crc="86841457" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u2368.png" crc="115042910" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
-    <file name="u2368-r.png" crc="3969315039" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact"/>
+    <file name="u2065.png" crc="4093960623" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u2065-r.png" crc="3945395019" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u2155.png" crc="3799770612" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u2155-r.png" crc="4284096477" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u2228.png" crc="4245583356" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u2228-r.png" crc="304418866" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u2299.png" crc="82337802" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u2299-r.png" crc="86841457" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u2368.png" crc="115042910" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
+    <file name="u2368-r.png" crc="3969315039" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban"/>
     <file name="u2819-45.png" crc="208143424" ref="index"/>
-    <file name="u2967_states5.png" crc="4073309318" ref="index"/>
-    <file name="u2967_states-r5.png" crc="4206244694" ref="index"/>
+    <file name="u29675.png" crc="231178690" ref="index"/>
+    <file name="u2967-r5.png" crc="4136315703" ref="index"/>
     <file name="u10644-75.png" crc="76476153" ref="index"/>
     <file name="20170929-dsc_0141-2-u16514-fr4.jpg" crc="4117446534" ref="index"/>
     <file name="u19682-45.png" crc="291904980" ref="index"/>
-    <file name="20170430-dsc_1235-crop-u255892.jpg" crc="4030293093" seo="true" ref="index">
+    <file name="20170430-dsc_1235-crop-u255892.jpg" crc="522983455" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277-crop-u259682.jpg" crc="3894858146" seo="true" ref="index">
+    <file name="20170717-dsc_0277-crop-u259682.jpg" crc="95379451" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2-crop-u260602.jpg" crc="4050431909" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2-crop-u260602.jpg" crc="3809694776" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4-crop-u261522.jpg" crc="4191590346" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4-crop-u261522.jpg" crc="4225639848" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2-crop-u262442.jpg" crc="438089304" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2-crop-u262442.jpg" crc="3875005539" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1-crop-u263362.jpg" crc="472860200" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1-crop-u263362.jpg" crc="4203579758" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259-crop-u264282.jpg" crc="432499190" seo="true" ref="index">
+    <file name="20171118-dsc_0259-crop-u264282.jpg" crc="119720741" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010-crop-u265202.jpg" crc="3901303" seo="true" ref="index">
+    <file name="20171124-dsc_0010-crop-u265202.jpg" crc="5157403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037-crop-u266122.jpg" crc="94135075" seo="true" ref="index">
+    <file name="20171126-dsc_0037-crop-u266122.jpg" crc="4192480111" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2-crop-u267042.jpg" crc="3996010644" seo="true" ref="index">
+    <file name="20171129-best-2-crop-u267042.jpg" crc="3991790971" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="20170930-dsc_0334-u2697-fr3.jpg" crc="4038667679" ref="index"/>
     <file name="u2819-46.png" crc="10129249" ref="index"/>
-    <file name="u2967_states6.png" crc="4083391353" ref="index"/>
-    <file name="u2967_states-r6.png" crc="4254900335" ref="index"/>
+    <file name="u29676.png" crc="80256776" ref="index"/>
+    <file name="u2967-r6.png" crc="4020327704" ref="index"/>
     <file name="u10644-76.png" crc="3824400551" ref="index"/>
-    <file name="por-u161623-fr4.jpg" crc="4177946065" ref="index"/>
-    <file name="nl-u161551-fr4.jpg" crc="462659351" ref="index"/>
-    <file name="arch-u161560-fr4.jpg" crc="3845005910" ref="index"/>
-    <file name="urban-u161581-fr4.jpg" crc="257429768" ref="index"/>
     <file name="20170929-dsc_0141-2-u16514-fr5.jpg" crc="178452350" ref="index"/>
     <file name="u19682-46.png" crc="602909" ref="index"/>
-    <file name="20170430-dsc_1235403x269.jpg" crc="195828660" seo="true" ref="index">
+    <file name="20170430-dsc_1235403x269.jpg" crc="4128548052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277400x267.jpg" crc="4001060649" seo="true" ref="index">
+    <file name="20170717-dsc_0277400x267.jpg" crc="117350132" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2400x267.jpg" crc="3786394979" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2400x267.jpg" crc="225519077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4400x267.jpg" crc="119471624" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4400x267.jpg" crc="208050636" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2400x267.jpg" crc="3964108742" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2400x267.jpg" crc="3984879287" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1400x267.jpg" crc="4265132661" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1400x267.jpg" crc="4013986403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259400x267.jpg" crc="4246277224" seo="true" ref="index">
+    <file name="20171118-dsc_0259400x267.jpg" crc="471469461" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010400x267.jpg" crc="4181633779" seo="true" ref="index">
+    <file name="20171124-dsc_0010400x267.jpg" crc="114174450" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037400x267.jpg" crc="3954480741" seo="true" ref="index">
+    <file name="20171126-dsc_0037400x267.jpg" crc="4110303339" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2400x267.jpg" crc="3862361510" seo="true" ref="index">
+    <file name="20171129-best-2400x267.jpg" crc="3773214094" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170430-dsc_1235-crop-u255893.jpg" crc="266530147" seo="true" ref="index">
+    <file name="20170430-dsc_1235-crop-u255893.jpg" crc="4282220048" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277-crop-u259683.jpg" crc="357559181" seo="true" ref="index">
+    <file name="20170717-dsc_0277-crop-u259683.jpg" crc="3842935962" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2-crop-u260603.jpg" crc="4083319524" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2-crop-u260603.jpg" crc="3883859702" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4-crop-u261523.jpg" crc="389620407" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4-crop-u261523.jpg" crc="315550507" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2-crop-u262443.jpg" crc="409605337" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2-crop-u262443.jpg" crc="391086737" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1-crop-u263363.jpg" crc="303981294" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1-crop-u263363.jpg" crc="3911743755" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259-crop-u264283.jpg" crc="246678571" seo="true" ref="index">
+    <file name="20171118-dsc_0259-crop-u264283.jpg" crc="3786068922" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010-crop-u265203.jpg" crc="502603394" seo="true" ref="index">
+    <file name="20171124-dsc_0010-crop-u265203.jpg" crc="12105175" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037-crop-u266123.jpg" crc="76070378" seo="true" ref="index">
+    <file name="20171126-dsc_0037-crop-u266123.jpg" crc="509658484" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2-crop-u267043.jpg" crc="390266174" seo="true" ref="index">
+    <file name="20171129-best-2-crop-u267043.jpg" crc="192625056" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="20170930-dsc_0334-u2697-fr4.jpg" crc="236399064" ref="index"/>
     <file name="u2819-47.png" crc="4142888161" ref="index"/>
-    <file name="u2967_states7.png" crc="3842728241" ref="index"/>
-    <file name="u2967_states-r7.png" crc="292153246" ref="index"/>
+    <file name="u29677.png" crc="15884282" ref="index"/>
+    <file name="u2967-r7.png" crc="4112023926" ref="index"/>
     <file name="u10644-77.png" crc="3824400551" ref="index"/>
-    <file name="por-u161623-fr5.jpg" crc="4279813429" ref="index"/>
-    <file name="eve-u161602-fr3.jpg" crc="269924350" ref="index"/>
-    <file name="nl-u161551-fr5.jpg" crc="4235140019" ref="index"/>
-    <file name="arch-u161560-fr5.jpg" crc="468989923" ref="index"/>
-    <file name="urban-u161581-fr5.jpg" crc="4080216020" ref="index"/>
     <file name="20170929-dsc_0141-2-u16514-fr6.jpg" crc="73982988" ref="index"/>
     <file name="u19682-47.png" crc="4123677683" ref="index"/>
-    <file name="20170430-dsc_1235136x91.jpg" crc="346422649" seo="true" ref="index">
+    <file name="20170430-dsc_1235136x91.jpg" crc="196332237" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277217x145.jpg" crc="342219298" seo="true" ref="index">
+    <file name="20170717-dsc_0277217x145.jpg" crc="3968629484" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2297x198.jpg" crc="490319667" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2297x199.jpg" crc="4158960342" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4217x145.jpg" crc="4246864359" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4217x145.jpg" crc="4143909229" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2217x145.jpg" crc="6547204" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2217x145.jpg" crc="16568437" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1217x145.jpg" crc="24865975" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1217x145.jpg" crc="213835568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259217x145.jpg" crc="3816957309" seo="true" ref="index">
+    <file name="20171118-dsc_0259217x145.jpg" crc="208115503" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010217x145.jpg" crc="484579917" seo="true" ref="index">
+    <file name="20171124-dsc_0010217x145.jpg" crc="509819910" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037217x145.jpg" crc="4118071261" seo="true" ref="index">
+    <file name="20171126-dsc_0037217x145.jpg" crc="248798832" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2217x145.jpg" crc="4056371825" seo="true" ref="index">
+    <file name="20171129-best-2217x145.jpg" crc="292661419" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="20170430-dsc_1235-crop-u255894.jpg" crc="459019559" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277-crop-u259684.jpg" crc="386057533" seo="true" ref="index">
+    <file name="20170717-dsc_0277-crop-u259684.jpg" crc="3889514874" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2-crop-u260604.jpg" crc="124126184" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2-crop-u260604.jpg" crc="173902366" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4-crop-u261524.jpg" crc="4043321234" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4-crop-u261524.jpg" crc="3763803014" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2-crop-u262444.jpg" crc="3965799834" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2-crop-u262444.jpg" crc="3853453673" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1-crop-u263364.jpg" crc="95117329" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1-crop-u263364.jpg" crc="3885935074" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259-crop-u264284.jpg" crc="4190067392" seo="true" ref="index">
+    <file name="20171118-dsc_0259-crop-u264284.jpg" crc="4080666684" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010-crop-u265204.jpg" crc="283420401" seo="true" ref="index">
+    <file name="20171124-dsc_0010-crop-u265204.jpg" crc="4220010019" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037-crop-u266124.jpg" crc="140920026" seo="true" ref="index">
+    <file name="20171126-dsc_0037-crop-u266124.jpg" crc="3957910664" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2-crop-u267044.jpg" crc="4281390743" seo="true" ref="index">
+    <file name="20171129-best-2-crop-u267044.jpg" crc="230384231" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="20170930-dsc_0334-u2697-fr5.jpg" crc="4263146785" ref="index"/>
     <file name="u2819-48.png" crc="4084961148" ref="index"/>
-    <file name="u2967_states8.png" crc="3993091075" ref="index"/>
-    <file name="u2967_states-r8.png" crc="4045624836" ref="index"/>
+    <file name="u29678.png" crc="329698495" ref="index"/>
+    <file name="u2967-r8.png" crc="383445622" ref="index"/>
     <file name="u10644-78.png" crc="4113274704" ref="index"/>
-    <file name="por-u161623-fr6.jpg" crc="3866729523" ref="index"/>
-    <file name="nl-u161551-fr6.jpg" crc="76603732" ref="index"/>
-    <file name="arch-u161560-fr6.jpg" crc="4250842526" ref="index"/>
-    <file name="urban-u161581-fr6.jpg" crc="381689460" ref="index"/>
-    <file name="eve-u161602-fr4.jpg" crc="3878214597" ref="index"/>
     <file name="u19682-48.png" crc="334440518" ref="index"/>
-    <file name="20170430-dsc_1235129x86.jpg" crc="3788118979" seo="true" ref="index">
+    <file name="20170430-dsc_1235129x86.jpg" crc="4126945727" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_0277206x137.jpg" crc="79174353" seo="true" ref="index">
+    <file name="20170717-dsc_0277206x137.jpg" crc="515413536" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-2206x137.jpg" crc="463275844" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-2206x137.jpg" crc="166740098" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-4206x137.jpg" crc="198786385" seo="true" ref="index">
+    <file name="20170815-dsc_0097-4206x137.jpg" crc="3760929464" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-2206x137.jpg" crc="450787209" seo="true" ref="index">
+    <file name="20171001-dsc_0462-2206x137.jpg" crc="446364948" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-1206x137.jpg" crc="4054519785" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-1206x137.jpg" crc="190149441" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_0259206x137.jpg" crc="3911070543" seo="true" ref="index">
+    <file name="20171118-dsc_0259206x137.jpg" crc="424468472" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_0010206x137.jpg" crc="504228496" seo="true" ref="index">
+    <file name="20171124-dsc_0010206x137.jpg" crc="518506391" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_0037206x137.jpg" crc="336078611" seo="true" ref="index">
+    <file name="20171126-dsc_0037206x137.jpg" crc="38214715" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-2206x137.jpg" crc="316832968" seo="true" ref="index">
+    <file name="20171129-best-2206x137.jpg" crc="237369643" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170430-dsc_123598x65.jpg" crc="4032614608" seo="true" ref="index">
+    <file name="20170430-dsc_123598x65.jpg" crc="84696550" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170717-dsc_027798x65.jpg" crc="319491449" seo="true" ref="index">
+    <file name="20170717-dsc_027798x65.jpg" crc="529489030" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-20170815-dsc_0124-2-298x65.jpg" crc="171875485" seo="true" ref="index">
+    <file name="20170815-20170815-dsc_0124-2-298x65.jpg" crc="16354618" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20170815-dsc_0097-498x65.jpg" crc="124226617" seo="true" ref="index">
+    <file name="20170815-dsc_0097-498x65.jpg" crc="4142006531" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171001-dsc_0462-298x65.jpg" crc="481291203" seo="true" ref="index">
+    <file name="20171001-dsc_0462-298x65.jpg" crc="2576821" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171004-20171004-dsc_0342 as smart object-198x65.jpg" crc="23114351" seo="true" ref="index">
+    <file name="20171004-20171004-dsc_0342 as smart object-198x65.jpg" crc="4121265262" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171118-dsc_025998x65.jpg" crc="4260365742" seo="true" ref="index">
+    <file name="20171118-dsc_025998x65.jpg" crc="313212119" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171124-dsc_001098x65.jpg" crc="4107789218" seo="true" ref="index">
+    <file name="20171124-dsc_001098x65.jpg" crc="3863487089" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171126-dsc_003798x65.jpg" crc="180330021" seo="true" ref="index">
+    <file name="20171126-dsc_003798x65.jpg" crc="3842605320" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20171129-best-298x65.jpg" crc="3885874581" seo="true" ref="index">
+    <file name="20171129-best-298x65.jpg" crc="230397328" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u43556-4.png" crc="198526819" ref="jobs"/>
@@ -3147,6 +3082,40 @@
       <caption webpage="exavda" alt=""/>
     </file>
     <file name="u94465-4.png" crc="149450159" ref="projects"/>
+    <file name="arch.jpg" crc="110310505" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="nl.jpg" crc="268140908" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="por.jpg" crc="4135780842" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="urban.jpg" crc="4149776338" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
     <file name="u94465-42.png" crc="132932822" ref="projects"/>
     <file name="u94465-43.png" crc="21567221" ref="projects"/>
     <file name="u94465-44.png" crc="238198761" ref="projects"/>
@@ -3653,24 +3622,6 @@
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="dsc_0378.jpg" crc="4093500734" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0014-3.jpg" crc="4165101728" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0077.jpg" crc="77244692" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-    </file>
     <file name="20160714-20160714_202115119x79.jpg" crc="233228626" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
@@ -3752,7 +3703,7 @@
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="20170430-dsc_1235119x792.jpg" crc="4166224876" seo="true" ref="architecture">
+    <file name="20170430-dsc_1235119x79.jpg" crc="4166224876" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
@@ -3896,33 +3847,6 @@
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="dsc_0378119x79.jpg" crc="345084831" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0014-3119x79.jpg" crc="4039853358" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0077119x79.jpg" crc="3822852056" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-      <caption webpage="architecture" alt=""/>
-    </file>
     <file name="u114171-42.png" crc="281204023" ref="architecture"/>
     <file name="20171003-dsc_0076-u114169-fr.jpg" crc="100723366" ref="architecture"/>
     <file name="u114171-43.png" crc="267520180" ref="architecture"/>
@@ -4008,15 +3932,6 @@
     <file name="20171216-dsc_0314361x241.jpg" crc="4205532150" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="dsc_0378361x241.jpg" crc="3932041906" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0014-3361x241.jpg" crc="4051012106" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0077361x241.jpg" crc="429931603" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-    </file>
     <file name="20171003-dsc_0076-u114169-fr4.jpg" crc="4046857498" ref="architecture"/>
     <file name="u114171-46.png" crc="456619500" ref="architecture"/>
     <file name="20160714-20160714_202115274x183.jpg" crc="4114961048" seo="true" ref="architecture">
@@ -4094,15 +4009,6 @@
     <file name="20171216-dsc_0314274x183.jpg" crc="3774418305" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
-    <file name="dsc_0378274x183.jpg" crc="184569793" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0014-3274x183.jpg" crc="3874913351" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0077274x183.jpg" crc="13551474" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-    </file>
     <file name="20171003-dsc_0076-u114169-fr5.jpg" crc="11739874" ref="architecture"/>
     <file name="u114171-47.png" crc="4015488111" ref="architecture"/>
     <file name="20160714-20160714_202115238x159.jpg" crc="3824533595" seo="true" ref="architecture">
@@ -4178,15 +4084,6 @@
       <caption webpage="architecture" alt=""/>
     </file>
     <file name="20171216-dsc_0314238x159.jpg" crc="2523541" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0378238x159.jpg" crc="370134031" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0014-3238x159.jpg" crc="502377851" seo="true" ref="architecture">
-      <caption webpage="architecture" alt=""/>
-    </file>
-    <file name="dsc_0077238x159.jpg" crc="166672440" seo="true" ref="architecture">
       <caption webpage="architecture" alt=""/>
     </file>
     <file name="20170717-dsc_02772.jpg" crc="4259300361" ref="nature---landscape">
@@ -4281,48 +4178,6 @@
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="4 moons(colorised) with c.jpg" crc="3815077778" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0142 as smart object-1 c.jpg" crc="4107969094" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0092 as smart object-1.jpg" crc="3891347576" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0096 as smart object-1-2.jpg" crc="73074300" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0163 as smart object-1.jpg" crc="172229043" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="20180107-dsc_0011.jpg" crc="184087162" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0008.jpg" crc="103904667" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
     <file name="20170814-dsc_0041-2.jpg" crc="217085316" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
@@ -4366,14 +4221,14 @@
       <caption webpage="nature---landscape" alt=""/>
     </file>
     <file name="20171020-untitled-1.jpg" crc="4181370030" seo="true" ref="nature---landscape:urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
+      <caption webpage="urban" alt=""/>
     </file>
     <file name="20171113-dsc_0253.jpg" crc="111287494" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
@@ -4519,70 +4374,7 @@
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="20171224-20171224_174516-crop-u148225.jpg" crc="242108359" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="4 moons(colorised) with c119x79.jpg" crc="3903895085" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0142 as smart object-1 c119x79.jpg" crc="3792435538" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0092 as smart object-1119x79.jpg" crc="380985432" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0096 as smart object-1-2119x79.jpg" crc="492250955" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0163 as smart object-1119x79.jpg" crc="3834068052" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="20180107-dsc_0011119x79.jpg" crc="4168008373" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0008119x79.jpg" crc="4070387222" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="nature---landscape" alt=""/>
+    <file name="20171224-20171224_174516-crop-u148225.jpg" crc="4080007806" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
     <file name="20170814-dsc_0041-2119x79.jpg" crc="4096296501" seo="true" ref="nature---landscape">
@@ -4697,7 +4489,7 @@
     <file name="20171224-dsc_0079-crop-u1473242.jpg" crc="4249004061" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="20171224-20171224_174516-crop-u1482252.jpg" crc="242108359" seo="true" ref="nature---landscape">
+    <file name="20171224-20171224_174516-crop-u1482252.jpg" crc="4080007806" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
     <file name="20170717-dsc_0277-u119467-fr.jpg" crc="4180170769" ref="nature---landscape"/>
@@ -4705,7 +4497,7 @@
     <file name="20171224-dsc_0079-crop-u1473243.jpg" crc="4249004061" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="20171224-20171224_174516-crop-u1482253.jpg" crc="242108359" seo="true" ref="nature---landscape">
+    <file name="20171224-20171224_174516-crop-u1482253.jpg" crc="4080007806" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
     <file name="20170717-dsc_0277-u119467-fr2.jpg" crc="346201283" ref="nature---landscape"/>
@@ -4719,7 +4511,7 @@
     <file name="20171224-dsc_0079-crop-u1473244.jpg" crc="4249004061" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="20171224-20171224_174516-crop-u1482254.jpg" crc="242108359" seo="true" ref="nature---landscape">
+    <file name="20171224-20171224_174516-crop-u1482254.jpg" crc="4080007806" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
     <file name="20170717-dsc_0277-u119467-fr3.jpg" crc="140428511" ref="nature---landscape"/>
@@ -4769,27 +4561,6 @@
     <file name="20171224-20171224_174516184x245.jpg" crc="4165671688" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="4 moons(colorised) with c361x241.jpg" crc="4098197742" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0142 as smart object-1 c361x241.jpg" crc="151679619" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0092 as smart object-1361x241.jpg" crc="3835712799" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0096 as smart object-1-2361x241.jpg" crc="162455005" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0163 as smart object-1361x241.jpg" crc="502563659" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="20180107-dsc_0011361x241.jpg" crc="148734664" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0008361x241.jpg" crc="3908159733" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
     <file name="20170814-dsc_0041-2361x241.jpg" crc="366562577" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
@@ -4829,7 +4600,7 @@
     <file name="20171224-dsc_0079-crop-u1473245.jpg" crc="4249004061" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="20171224-20171224_174516-crop-u1482255.jpg" crc="242108359" seo="true" ref="nature---landscape">
+    <file name="20171224-20171224_174516-crop-u1482255.jpg" crc="4080007806" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
     <file name="20170717-dsc_0277-u119467-fr4.jpg" crc="4164670124" ref="nature---landscape"/>
@@ -4879,27 +4650,6 @@
     <file name="20171224-20171224_174516139x185.jpg" crc="147914461" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="4 moons(colorised) with c274x183.jpg" crc="3836201627" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0142 as smart object-1 c274x183.jpg" crc="205328563" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0092 as smart object-1274x183.jpg" crc="3991514165" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0096 as smart object-1-2274x183.jpg" crc="3787290604" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0163 as smart object-1274x183.jpg" crc="396713513" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="20180107-dsc_0011274x183.jpg" crc="235973950" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0008274x183.jpg" crc="330090567" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
     <file name="20170814-dsc_0041-2274x183.jpg" crc="4034913172" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
@@ -4939,7 +4689,7 @@
     <file name="20171224-dsc_0079-crop-u1473246.jpg" crc="4249004061" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="20171224-20171224_174516-crop-u1482256.jpg" crc="242108359" seo="true" ref="nature---landscape">
+    <file name="20171224-20171224_174516-crop-u1482256.jpg" crc="4080007806" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
     <file name="20170717-dsc_0277-u119467-fr5.jpg" crc="3843288115" ref="nature---landscape"/>
@@ -4989,27 +4739,6 @@
     <file name="20171224-20171224_174516137x182.jpg" crc="3789690576" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="4 moons(colorised) with c238x159.jpg" crc="3795419423" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0142 as smart object-1 c238x159.jpg" crc="3937418111" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0092 as smart object-1238x159.jpg" crc="356413768" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0096 as smart object-1-2238x159.jpg" crc="3916084604" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0163 as smart object-1238x159.jpg" crc="22973724" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="20180107-dsc_0011238x159.jpg" crc="319359024" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
-    <file name="dsc_0008238x159.jpg" crc="360522672" seo="true" ref="nature---landscape">
-      <caption webpage="nature---landscape" alt=""/>
-    </file>
     <file name="20170814-dsc_0041-2238x159.jpg" crc="4294885100" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
@@ -5049,7 +4778,7 @@
     <file name="20171224-dsc_0079-crop-u1473247.jpg" crc="4249004061" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
-    <file name="20171224-20171224_174516-crop-u1482257.jpg" crc="242108359" seo="true" ref="nature---landscape">
+    <file name="20171224-20171224_174516-crop-u1482257.jpg" crc="4080007806" seo="true" ref="nature---landscape">
       <caption webpage="nature---landscape" alt=""/>
     </file>
     <file name="20171003-dsc_0243.jpg" crc="43176506" ref="urban">
@@ -5212,36 +4941,6 @@
       <caption webpage="urban" alt=""/>
     </file>
     <file name="20171221-dsc_0060.jpg" crc="4111540796" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0081.jpg" crc="165175620" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0590.jpg" crc="172743449" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_1400.jpg" crc="4235743690" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0402-2.jpg" crc="389525512" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0378-2.jpg" crc="4021151479" seo="true" ref="urban">
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
@@ -5490,51 +5189,6 @@
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
     </file>
-    <file name="dsc_0081119x79.jpg" crc="169656636" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0590119x79.jpg" crc="530842038" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_1400119x79.jpg" crc="3869523178" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0402-2119x79.jpg" crc="235899119" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0378-2119x79.jpg" crc="470407669" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-      <caption webpage="urban" alt=""/>
-    </file>
     <file name="20171229-dsc_0036119x79.jpg" crc="478459515" seo="true" ref="urban">
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
@@ -5644,21 +5298,6 @@
     <file name="20171221-dsc_0060361x241.jpg" crc="3799853322" seo="true" ref="urban">
       <caption webpage="urban" alt=""/>
     </file>
-    <file name="dsc_0081361x241.jpg" crc="3802400473" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0590361x241.jpg" crc="3810303185" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_1400361x241.jpg" crc="518099695" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0402-2361x241.jpg" crc="4132168276" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0378-2361x241.jpg" crc="3922200599" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
     <file name="20171229-dsc_0036361x241.jpg" crc="4106982711" seo="true" ref="urban">
       <caption webpage="urban" alt=""/>
     </file>
@@ -5746,21 +5385,6 @@
       <caption webpage="urban" alt=""/>
     </file>
     <file name="20171221-dsc_0060274x183.jpg" crc="328569087" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0081274x183.jpg" crc="4291464497" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0590274x183.jpg" crc="16639498" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_1400274x183.jpg" crc="4237515749" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0402-2274x183.jpg" crc="4121436303" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0378-2274x183.jpg" crc="339087386" seo="true" ref="urban">
       <caption webpage="urban" alt=""/>
     </file>
     <file name="20171229-dsc_0036274x183.jpg" crc="491980253" seo="true" ref="urban">
@@ -5852,46 +5476,21 @@
     <file name="20171221-dsc_0060238x159.jpg" crc="45727874" seo="true" ref="urban">
       <caption webpage="urban" alt=""/>
     </file>
-    <file name="dsc_0081238x159.jpg" crc="3990793644" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0590238x159.jpg" crc="3815595986" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_1400238x159.jpg" crc="18016766" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0402-2238x159.jpg" crc="4150106677" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
-    <file name="dsc_0378-2238x159.jpg" crc="264387132" seo="true" ref="urban">
-      <caption webpage="urban" alt=""/>
-    </file>
     <file name="20171229-dsc_0036238x159.jpg" crc="174471631" seo="true" ref="urban">
       <caption webpage="urban" alt=""/>
     </file>
     <file name="20170930-dsc_0382-crop-u1315597.jpg" crc="3926187259" seo="true" ref="urban">
       <caption webpage="urban" alt=""/>
     </file>
-    <file name="main logo.png" crc="4115596406" ref="contact">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="main logo-u160449-fr.png" crc="3979015979" ref="contact"/>
-    <file name="main logo-u160449-fr2.png" crc="4030698543" ref="contact"/>
-    <file name="main logo-u160449-fr3.png" crc="172023527" ref="contact"/>
-    <file name="main logo-u160449-fr4.png" crc="3967849188" ref="contact"/>
-    <file name="main logo-u160449-fr5.png" crc="106522103" ref="contact"/>
   </folder>
-  <file name="index.html" crc="4198642839" seo="true" mt="1519173837601" redirect="true"/>
-  <file name="jobs.html" crc="4294315719" seo="true" mt="1519173837601" redirect="true"/>
-  <file name="aiesec.html" crc="4149808772" seo="true" mt="1519173837601" redirect="true"/>
-  <file name="ioan-marathon.html" crc="157806179" seo="true" mt="1519173837601" redirect="true"/>
-  <file name="exavda.html" crc="120332230" seo="true" mt="1519173837601" redirect="true"/>
-  <file name="projects.html" crc="4205672943" seo="true" mt="1519173837601" redirect="true"/>
-  <file name="portraits.html" crc="4139320164" seo="true" mt="1519173837601" redirect="true"/>
-  <file name="architecture.html" crc="58220422" seo="true" mt="1519173837601" redirect="true"/>
-  <file name="nature---landscape.html" crc="4294140425" seo="true" mt="1519173837601" redirect="true"/>
-  <file name="urban.html" crc="94846336" seo="true" mt="1519173837601" redirect="true"/>
-  <file name="contact.html" crc="3810082797" seo="true" mt="1519173837601" redirect="true"/>
+  <file name="index.html" crc="4285517393" seo="true" mt="1514670307474" redirect="true"/>
+  <file name="jobs.html" crc="3893920633" seo="true" mt="1514670307474" redirect="true"/>
+  <file name="aiesec.html" crc="179636199" seo="true" mt="1514670307474" redirect="true"/>
+  <file name="ioan-marathon.html" crc="90383060" seo="true" mt="1514670307474" redirect="true"/>
+  <file name="exavda.html" crc="3760235516" seo="true" mt="1514670307474" redirect="true"/>
+  <file name="projects.html" crc="242171652" seo="true" mt="1514670307474" redirect="true"/>
+  <file name="portraits.html" crc="490741394" seo="true" mt="1514670307474" redirect="true"/>
+  <file name="architecture.html" crc="69883813" seo="true" mt="1514670307474" redirect="true"/>
+  <file name="nature---landscape.html" crc="4265804299" seo="true" mt="1514670307474" redirect="true"/>
+  <file name="urban.html" crc="238738812" seo="true" mt="1514670307474" redirect="true"/>
 </manifest>
