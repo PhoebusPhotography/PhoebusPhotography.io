@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://phoebuspg.cf/index.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -102,34 +102,34 @@
       <image:loc>http://phoebuspg.cf/images/20171129-best-2623x416.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/20170430-dsc_1235155x104.jpg</image:loc>
+      <image:loc>http://phoebuspg.cf/images/20170430-dsc_1235155x103.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/20170717-dsc_0277155x104.jpg</image:loc>
+      <image:loc>http://phoebuspg.cf/images/20170717-dsc_0277155x103.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/20170815-20170815-dsc_0124-2-2155x104.jpg</image:loc>
+      <image:loc>http://phoebuspg.cf/images/20170815-20170815-dsc_0124-2-2155x103.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/20170815-dsc_0097-4155x104.jpg</image:loc>
+      <image:loc>http://phoebuspg.cf/images/20170815-dsc_0097-4155x103.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/20171001-dsc_0462-2155x104.jpg</image:loc>
+      <image:loc>http://phoebuspg.cf/images/20171001-dsc_0462-2155x103.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/20171004-20171004-dsc_0342%20as%20smart%20object-1155x104.jpg</image:loc>
+      <image:loc>http://phoebuspg.cf/images/20171004-20171004-dsc_0342%20as%20smart%20object-1155x103.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171118-dsc_0259155x103.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/20171124-dsc_0010155x104.jpg</image:loc>
+      <image:loc>http://phoebuspg.cf/images/20171124-dsc_0010155x103.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171126-dsc_0037155x103.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/20171129-best-2155x104.jpg</image:loc>
+      <image:loc>http://phoebuspg.cf/images/20171129-best-2155x103.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20170430-dsc_1235368x245.jpg</image:loc>
@@ -160,9 +160,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171129-best-2370x247.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/20170430-dsc_1235119x79.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20170717-dsc_0277119x80.jpg</image:loc>
@@ -351,9 +348,6 @@
       <image:loc>http://phoebuspg.cf/images/20170717-dsc_0277217x145.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/20170815-20170815-dsc_0124-2-2297x198.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://phoebuspg.cf/images/20170815-dsc_0097-4217x145.jpg</image:loc>
     </image:image>
     <image:image>
@@ -464,10 +458,16 @@
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171129-best-298x65.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/20170430-dsc_1235119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/20170815-20170815-dsc_0124-2-2297x198.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://phoebuspg.cf/jobs.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -479,7 +479,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/aiesec.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1214,7 +1214,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/ioan-marathon.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1802,7 +1802,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/exavda.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2072,7 +2072,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/projects.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2084,7 +2084,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/portraits.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2113,9 +2113,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/portrait(6).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/portrait(7).jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/portrait(8).jpg</image:loc>
@@ -2152,9 +2149,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/portrait(6)119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/portrait(7)119x79.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/portrait(8)119x79.jpg</image:loc>
@@ -2205,9 +2199,6 @@
       <image:loc>http://phoebuspg.cf/images/portrait(6)361x241.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/portrait(7)361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://phoebuspg.cf/images/portrait(8)361x241.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2245,9 +2236,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/portrait(6)274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/portrait(7)274x183.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/portrait(8)274x183.jpg</image:loc>
@@ -2289,9 +2277,6 @@
       <image:loc>http://phoebuspg.cf/images/portrait(6)238x159.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/portrait(7)238x159.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://phoebuspg.cf/images/portrait(8)238x159.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2309,10 +2294,58 @@
     <image:image>
       <image:loc>http://phoebuspg.cf/images/portrait(2)-crop-u1018867.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0392-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3-crop-u102316.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0392-2119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3-crop-u1023162.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3-crop-u1023163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3-crop-u1023164.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3193x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0392-2361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3-crop-u1023165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3148x186.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0392-2274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3-crop-u1023166.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3127x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0392-2238x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/pho_0233-3-crop-u1023167.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://phoebuspg.cf/architecture.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2397,15 +2430,6 @@
       <image:loc>http://phoebuspg.cf/images/20171216-dsc_0314.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0378.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0014-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0077.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://phoebuspg.cf/images/20160714-20160714_202115119x79.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2431,9 +2455,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20170430-dsc_1209119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/20170430-dsc_1235119x792.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20170619-romekati119x79.jpg</image:loc>
@@ -2479,15 +2500,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171216-dsc_0314119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0378119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0014-3119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0077119x79.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171003-dsc_0076504x336.jpg</image:loc>
@@ -2568,15 +2580,6 @@
       <image:loc>http://phoebuspg.cf/images/20171216-dsc_0314361x241.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0378361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0014-3361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0077361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://phoebuspg.cf/images/20160714-20160714_202115274x183.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2650,15 +2653,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171216-dsc_0314274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0378274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0014-3274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0077274x183.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20160714-20160714_202115238x159.jpg</image:loc>
@@ -2736,6 +2730,45 @@
       <image:loc>http://phoebuspg.cf/images/20171216-dsc_0314238x159.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0378.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0014-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0077.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/20170430-dsc_1235119x792.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0378119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0014-3119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0077119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0378361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0014-3361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0077361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0378274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0014-3274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0077274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://phoebuspg.cf/images/dsc_0378238x159.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2747,7 +2780,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/nature---landscape.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2800,27 +2833,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171224-20171224_174516.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/4%20moons(colorised)%20with%20c.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0142%20as%20smart%20object-1%20c.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0092%20as%20smart%20object-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0096%20as%20smart%20object-1-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0163%20as%20smart%20object-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/20180107-dsc_0011.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0008.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20170814-dsc_0041-2.jpg</image:loc>
@@ -2902,27 +2914,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171224-20171224_174516-crop-u148225.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/4%20moons(colorised)%20with%20c119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0142%20as%20smart%20object-1%20c119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0092%20as%20smart%20object-1119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0096%20as%20smart%20object-1-2119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0163%20as%20smart%20object-1119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/20180107-dsc_0011119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0008119x79.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20170814-dsc_0041-2119x79.jpg</image:loc>
@@ -3030,27 +3021,6 @@
       <image:loc>http://phoebuspg.cf/images/20171224-20171224_174516184x245.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/4%20moons(colorised)%20with%20c361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0142%20as%20smart%20object-1%20c361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0092%20as%20smart%20object-1361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0096%20as%20smart%20object-1-2361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0163%20as%20smart%20object-1361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/20180107-dsc_0011361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0008361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://phoebuspg.cf/images/20170814-dsc_0041-2361x241.jpg</image:loc>
     </image:image>
     <image:image>
@@ -3136,27 +3106,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171224-20171224_174516139x185.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/4%20moons(colorised)%20with%20c274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0142%20as%20smart%20object-1%20c274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0092%20as%20smart%20object-1274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0096%20as%20smart%20object-1-2274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0163%20as%20smart%20object-1274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/20180107-dsc_0011274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0008274x183.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20170814-dsc_0041-2274x183.jpg</image:loc>
@@ -3246,27 +3195,6 @@
       <image:loc>http://phoebuspg.cf/images/20171224-20171224_174516137x182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/4%20moons(colorised)%20with%20c238x159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0142%20as%20smart%20object-1%20c238x159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0092%20as%20smart%20object-1238x159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0096%20as%20smart%20object-1-2238x159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0163%20as%20smart%20object-1238x159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/20180107-dsc_0011238x159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0008238x159.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://phoebuspg.cf/images/20170814-dsc_0041-2238x159.jpg</image:loc>
     </image:image>
     <image:image>
@@ -3308,10 +3236,115 @@
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171224-20171224_174516-crop-u1482257.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/4%20moons(colorised)%20with%20c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0142%20as%20smart%20object-1%20c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0092%20as%20smart%20object-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0096%20as%20smart%20object-1-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0163%20as%20smart%20object-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/20180107-dsc_0011.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0008.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/4%20moons(colorised)%20with%20c119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0142%20as%20smart%20object-1%20c119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0092%20as%20smart%20object-1119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0096%20as%20smart%20object-1-2119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0163%20as%20smart%20object-1119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/20180107-dsc_0011119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0008119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/4%20moons(colorised)%20with%20c361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0142%20as%20smart%20object-1%20c361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0092%20as%20smart%20object-1361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0096%20as%20smart%20object-1-2361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0163%20as%20smart%20object-1361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/20180107-dsc_0011361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0008361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/4%20moons(colorised)%20with%20c274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0142%20as%20smart%20object-1%20c274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0092%20as%20smart%20object-1274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0096%20as%20smart%20object-1-2274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0163%20as%20smart%20object-1274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/20180107-dsc_0011274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0008274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/4%20moons(colorised)%20with%20c238x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0142%20as%20smart%20object-1%20c238x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0092%20as%20smart%20object-1238x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0096%20as%20smart%20object-1-2238x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0163%20as%20smart%20object-1238x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/20180107-dsc_0011238x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0008238x159.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://phoebuspg.cf/urban.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -3408,21 +3441,6 @@
       <image:loc>http://phoebuspg.cf/images/20171221-dsc_0060.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0081.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0590.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_1400.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0402-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0378-2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://phoebuspg.cf/images/20171229-dsc_0036.jpg</image:loc>
     </image:image>
     <image:image>
@@ -3505,21 +3523,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171221-dsc_0060119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0081119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0590119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_1400119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0402-2119x79.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0378-2119x79.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171229-dsc_0036119x79.jpg</image:loc>
@@ -3618,21 +3621,6 @@
       <image:loc>http://phoebuspg.cf/images/20171221-dsc_0060361x241.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0081361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0590361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_1400361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0402-2361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0378-2361x241.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://phoebuspg.cf/images/20171229-dsc_0036361x241.jpg</image:loc>
     </image:image>
     <image:image>
@@ -3718,21 +3706,6 @@
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171221-dsc_0060274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0081274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0590274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_1400274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0402-2274x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/dsc_0378-2274x183.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171229-dsc_0036274x183.jpg</image:loc>
@@ -3822,6 +3795,72 @@
       <image:loc>http://phoebuspg.cf/images/20171221-dsc_0060238x159.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://phoebuspg.cf/images/20171229-dsc_0036238x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/20170930-dsc_0382-crop-u1315597.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0081.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0590.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_1400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0402-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0378-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0081119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0590119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_1400119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0402-2119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0378-2119x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0081361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0590361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_1400361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0402-2361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0378-2361x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0081274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0590274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_1400274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0402-2274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://phoebuspg.cf/images/dsc_0378-2274x183.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://phoebuspg.cf/images/dsc_0081238x159.jpg</image:loc>
     </image:image>
     <image:image>
@@ -3836,16 +3875,10 @@
     <image:image>
       <image:loc>http://phoebuspg.cf/images/dsc_0378-2238x159.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/20171229-dsc_0036238x159.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://phoebuspg.cf/images/20170930-dsc_0382-crop-u1315597.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://phoebuspg.cf/contact.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
