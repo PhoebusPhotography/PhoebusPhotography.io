@@ -1,50 +1,50 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="phoebuspg.cf" resolutions="1x" timestamp="1536366894431">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="phoebuspg.cf" resolutions="1x" timestamp="1537033410022">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4021202944" ref="nature---landscape:projects:aiesec:urban:portraits:ioan-marathon:index:contact:architecture:exavda:jobs:photometria"/>
-    <file name="nomq_preview_master_a-master.css" crc="50406385" ref="nature---landscape:projects:aiesec:urban:portraits:ioan-marathon:index:contact:architecture:exavda:jobs:photometria"/>
-    <file name="nature---landscape.css" crc="249694230" ref="nature---landscape"/>
-    <file name="nomq_nature---landscape.css" crc="3834456915" ref="nature---landscape"/>
-    <file name="projects.css" crc="4044898240" ref="projects"/>
-    <file name="nomq_projects.css" crc="128885873" ref="projects"/>
-    <file name="aiesec.css" crc="351539280" ref="aiesec"/>
-    <file name="nomq_aiesec.css" crc="370761577" ref="aiesec"/>
-    <file name="urban.css" crc="240911684" ref="urban"/>
-    <file name="nomq_urban.css" crc="13980628" ref="urban"/>
-    <file name="portraits.css" crc="4040316995" ref="portraits"/>
-    <file name="nomq_portraits.css" crc="4099455323" ref="portraits"/>
-    <file name="ioan-marathon.css" crc="401955437" ref="ioan-marathon"/>
-    <file name="nomq_ioan-marathon.css" crc="184387662" ref="ioan-marathon"/>
-    <file name="index.css" crc="358221900" ref="index"/>
-    <file name="nomq_index.css" crc="324844058" ref="index"/>
-    <file name="contact.css" crc="4162119127" ref="contact"/>
-    <file name="nomq_contact.css" crc="166817424" ref="contact"/>
-    <file name="architecture.css" crc="220481223" ref="architecture"/>
-    <file name="nomq_architecture.css" crc="291461969" ref="architecture"/>
-    <file name="exavda.css" crc="3890876828" ref="exavda"/>
+    <file name="master_a-master.css" crc="39009330" ref="architecture:exavda:events:portraits:photometria:nature---landscape:projects:aiesec:urban:index:ioan-marathon:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="50406385" ref="architecture:exavda:events:portraits:photometria:nature---landscape:projects:aiesec:urban:index:ioan-marathon:contact"/>
+    <file name="architecture.css" crc="73552047" ref="architecture"/>
+    <file name="nomq_architecture.css" crc="66102936" ref="architecture"/>
+    <file name="exavda.css" crc="14529947" ref="exavda"/>
     <file name="nomq_exavda.css" crc="104586937" ref="exavda"/>
-    <file name="jobs.css" crc="4164166456" ref="jobs"/>
-    <file name="nomq_jobs.css" crc="28137165" ref="jobs"/>
-    <file name="photometria.css" crc="45440063" ref="photometria"/>
+    <file name="events.css" crc="448608265" ref="events"/>
+    <file name="nomq_events.css" crc="28137165" ref="events"/>
+    <file name="portraits.css" crc="4291584075" ref="portraits"/>
+    <file name="nomq_portraits.css" crc="3796160360" ref="portraits"/>
+    <file name="photometria.css" crc="279006839" ref="photometria"/>
     <file name="nomq_photometria.css" crc="3912841616" ref="photometria"/>
+    <file name="nature---landscape.css" crc="4090253881" ref="nature---landscape"/>
+    <file name="nomq_nature---landscape.css" crc="118787570" ref="nature---landscape"/>
+    <file name="projects.css" crc="3814332610" ref="projects"/>
+    <file name="nomq_projects.css" crc="128885873" ref="projects"/>
+    <file name="aiesec.css" crc="3823183654" ref="aiesec"/>
+    <file name="nomq_aiesec.css" crc="370761577" ref="aiesec"/>
+    <file name="urban.css" crc="3792175872" ref="urban"/>
+    <file name="nomq_urban.css" crc="457681184" ref="urban"/>
+    <file name="index.css" crc="285787556" ref="index"/>
+    <file name="nomq_index.css" crc="460587881" ref="index"/>
+    <file name="ioan-marathon.css" crc="166226115" ref="ioan-marathon"/>
+    <file name="nomq_ioan-marathon.css" crc="184387662" ref="ioan-marathon"/>
+    <file name="contact.css" crc="129442948" ref="contact"/>
+    <file name="nomq_contact.css" crc="166817424" ref="contact"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="museutils.js" crc="46400467" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="whatinput.js" crc="86476730" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="museconfig.js" crc="436936948" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="jquery.musemenu.js" crc="3936200140" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="webpro.js" crc="4152390327" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="museutils.js" crc="46400467" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="whatinput.js" crc="86476730" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="museconfig.js" crc="436936948" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="webpro.js" crc="4152390327" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
     <file name="musewpslideshow.js" crc="380562115" ref="index:aiesec:ioan-marathon:exavda:portraits:architecture:nature---landscape:urban:photometria"/>
     <file name="jquery.museoverlay.js" crc="3986278607" ref="index:aiesec:ioan-marathon:exavda:portraits:architecture:nature---landscape:urban:photometria"/>
     <file name="touchswipe.js" crc="4228958816" ref="index:aiesec:ioan-marathon:exavda:portraits:architecture:nature---landscape:urban:photometria"/>
-    <file name="musewpdisclosure.js" crc="204784597" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
     <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="jquery.museresponsive.js" crc="52098982" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="require.js" crc="85721165" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="require.js" crc="85721165" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
     <file name="form_check.php" crc="4286608207" ref="contact"/>
     <file name="form_throttle.php" crc="313199896" ref="contact"/>
     <file name="form_process.php" crc="3855659497" ref="contact"/>
@@ -52,7 +52,7 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3927921942" ref="index"/>
-    <file name="instagram-logo.png" crc="254512197" ref="index:jobs:ioan-marathon">
+    <file name="instagram-logo.png" crc="254512197" ref="index:events:ioan-marathon">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -61,11 +61,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="jobs" alt=""/>
+      <caption webpage="events" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
     </file>
-    <file name="facebook-logo.png" crc="536300434" ref="index:jobs:ioan-marathon">
+    <file name="facebook-logo.png" crc="536300434" ref="index:events:ioan-marathon">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -74,18 +74,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="jobs" alt=""/>
+      <caption webpage="events" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
       <caption webpage="ioan-marathon" alt=""/>
     </file>
-    <file name="logo.jpg" crc="4171313757" seo="true" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria">
-      <caption webpage="exavda" alt=""/>
-      <caption webpage="exavda" alt=""/>
-      <caption webpage="exavda" alt=""/>
-      <caption webpage="exavda" alt=""/>
-      <caption webpage="exavda" alt=""/>
-      <caption webpage="exavda" alt=""/>
-      <caption webpage="exavda" alt=""/>
+    <file name="logo.jpg" crc="4171313757" seo="true" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
@@ -93,13 +93,49 @@
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="exavda" alt=""/>
+      <caption webpage="exavda" alt=""/>
+      <caption webpage="exavda" alt=""/>
+      <caption webpage="exavda" alt=""/>
+      <caption webpage="exavda" alt=""/>
+      <caption webpage="exavda" alt=""/>
+      <caption webpage="exavda" alt=""/>
       <caption webpage="aiesec" alt=""/>
       <caption webpage="aiesec" alt=""/>
       <caption webpage="aiesec" alt=""/>
@@ -114,42 +150,6 @@
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
@@ -157,20 +157,20 @@
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u164-4.png" crc="4071547513" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u404-4.png" crc="330976670" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u432-4.png" crc="365649354" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u460-4.png" crc="384315627" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u520-4.png" crc="3830815469" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="blank.gif" crc="4208392903" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u164-4.png" crc="4071547513" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u404-4.png" crc="330976670" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u432-4.png" crc="365649354" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u460-4.png" crc="384315627" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u520-4.png" crc="3830815469" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
     <file name="pho_0066-2.jpg" crc="185307544" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -286,7 +286,7 @@
     <file name="20171118-dsc_0259128x85.jpg" crc="4022632181" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20180813_145250114x85.jpg" crc="214165203" seo="true" ref="index">
+    <file name="20180813_145250117x88.jpg" crc="3812245229" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="20171126-dsc_0037128x85.jpg" crc="3899150658" seo="true" ref="index">
@@ -296,7 +296,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:aiesec:ioan-marathon:exavda:portraits:architecture:nature---landscape:urban:photometria"/>
-    <file name="u2626-4.png" crc="4140838651" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2626-4.png" crc="4140838651" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
     <file name="pho_0066-2-u2697-fr.jpg" crc="4073022564" ref="index"/>
     <file name="u2819-42.png" crc="427227379" ref="index"/>
     <file name="u2967_states2.png" crc="367923775" ref="index"/>
@@ -522,19 +522,39 @@
     <file name="20171129-best-2-crop-u26704.jpg" crc="3996010644" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="menubtn.png" crc="4230516719" seo="true" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria">
-      <caption webpage="exavda" alt=""/>
-      <caption webpage="exavda" alt=""/>
-      <caption webpage="exavda" alt=""/>
-      <caption webpage="exavda" alt=""/>
+    <file name="menubtn.png" crc="4230516719" seo="true" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
       <caption webpage="architecture" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="photometria" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="exavda" alt=""/>
+      <caption webpage="exavda" alt=""/>
+      <caption webpage="exavda" alt=""/>
+      <caption webpage="exavda" alt=""/>
       <caption webpage="aiesec" alt=""/>
       <caption webpage="aiesec" alt=""/>
       <caption webpage="aiesec" alt=""/>
@@ -543,45 +563,25 @@
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
       <caption webpage="nature---landscape" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="photometria" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="ioan-marathon" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
       <caption webpage="urban" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
+      <caption webpage="ioan-marathon" alt=""/>
     </file>
-    <file name="u2065.png" crc="4093960623" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u2065-r.png" crc="3945395019" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u2155.png" crc="3799770612" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u2155-r.png" crc="4284096477" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u2228.png" crc="155898166" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u2228-r.png" crc="94737074" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u2299.png" crc="82337802" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u2299-r.png" crc="86841457" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u2368.png" crc="115042910" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
-    <file name="u2368-r.png" crc="3969315039" ref="index:jobs:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2065.png" crc="4093960623" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2065-r.png" crc="3945395019" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2155.png" crc="3799770612" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2155-r.png" crc="4284096477" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2228.png" crc="155898166" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2228-r.png" crc="94737074" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2299.png" crc="82337802" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2299-r.png" crc="86841457" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2368.png" crc="115042910" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
+    <file name="u2368-r.png" crc="3969315039" ref="index:events:aiesec:ioan-marathon:exavda:projects:portraits:architecture:nature---landscape:urban:contact:photometria"/>
     <file name="u2819-45.png" crc="3874291097" ref="index"/>
     <file name="u2967_states5.png" crc="4073309318" ref="index"/>
     <file name="u2967_states-r5.png" crc="4206244694" ref="index"/>
@@ -829,74 +829,74 @@
     <file name="20171129-best-298x65.jpg" crc="3885874581" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u43556-4.png" crc="238626964" ref="jobs"/>
-    <file name="20171110-dsc_0055.jpg" crc="41784113" ref="jobs">
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
+    <file name="u43556-4.png" crc="238626964" ref="events"/>
+    <file name="20171110-dsc_0055.jpg" crc="41784113" ref="events">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
     </file>
-    <file name="20170513-1os.jpg" crc="225309412" ref="jobs">
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
+    <file name="20170513-1os.jpg" crc="225309412" ref="events">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
     </file>
-    <file name="20170606-11.jpg" crc="4021631200" ref="jobs">
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
-      <caption webpage="jobs" alt=""/>
+    <file name="20170606-11.jpg" crc="4021631200" ref="events">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
     </file>
-    <file name="u44854-4.png" crc="4220977699" ref="jobs"/>
-    <file name="u44860-4.png" crc="4219997006" ref="jobs"/>
-    <file name="u44866-6.png" crc="3975643554" ref="jobs"/>
-    <file name="pho_0244-u189673-fr.jpg" crc="4011869731" ref="jobs"/>
-    <file name="u189674-4.png" crc="90324912" ref="jobs"/>
-    <file name="u43556-42.png" crc="4197656106" ref="jobs"/>
-    <file name="u44854-42.png" crc="469289522" ref="jobs"/>
-    <file name="u44860-42.png" crc="434601915" ref="jobs"/>
-    <file name="u44866-62.png" crc="4119301015" ref="jobs"/>
-    <file name="pho_0244-u189673-fr2.jpg" crc="381958369" ref="jobs"/>
-    <file name="u189674-42.png" crc="3920425367" ref="jobs"/>
-    <file name="u43556-43.png" crc="81802418" ref="jobs"/>
-    <file name="u44854-43.png" crc="505132288" ref="jobs"/>
-    <file name="u44860-43.png" crc="462957771" ref="jobs"/>
-    <file name="u44866-63.png" crc="397863779" ref="jobs"/>
-    <file name="pho_0244-u189673-fr3.jpg" crc="20830246" ref="jobs"/>
-    <file name="u189674-43.png" crc="4134601879" ref="jobs"/>
-    <file name="u43556-44.png" crc="481914524" ref="jobs"/>
-    <file name="u44854-44.png" crc="359840004" ref="jobs"/>
-    <file name="u44860-44.png" crc="3819204262" ref="jobs"/>
-    <file name="u44866-64.png" crc="264287968" ref="jobs"/>
-    <file name="pho_0244-u189673-fr4.jpg" crc="3785804580" ref="jobs"/>
-    <file name="u189674-44.png" crc="3997979668" ref="jobs"/>
-    <file name="u43556-45.png" crc="4007649334" ref="jobs"/>
-    <file name="u44854-45.png" crc="354787597" ref="jobs"/>
-    <file name="u44860-45.png" crc="360825684" ref="jobs"/>
-    <file name="u44866-65.png" crc="162010181" ref="jobs"/>
-    <file name="u189674-45.png" crc="4170705387" ref="jobs"/>
-    <file name="u43556-46.png" crc="261125938" ref="jobs"/>
-    <file name="u44854-46.png" crc="4147154302" ref="jobs"/>
-    <file name="u44860-46.png" crc="261240395" ref="jobs"/>
-    <file name="u44866-66.png" crc="500854176" ref="jobs"/>
-    <file name="pho_0244-u189673-fr5.jpg" crc="516121044" ref="jobs"/>
-    <file name="u189674-46.png" crc="134171485" ref="jobs"/>
-    <file name="u43556-47.png" crc="4165465303" ref="jobs"/>
-    <file name="u44854-47.png" crc="3778502469" ref="jobs"/>
-    <file name="u44860-47.png" crc="4173755698" ref="jobs"/>
-    <file name="u44866-67.png" crc="4142190748" ref="jobs"/>
-    <file name="pho_0244-u189673-fr6.jpg" crc="162931073" ref="jobs"/>
-    <file name="u189674-47.png" crc="3997979668" ref="jobs"/>
+    <file name="u44854-4.png" crc="4220977699" ref="events"/>
+    <file name="u44860-4.png" crc="4219997006" ref="events"/>
+    <file name="u44866-6.png" crc="3975643554" ref="events"/>
+    <file name="pho_0244-u189673-fr.jpg" crc="4011869731" ref="events"/>
+    <file name="u189674-4.png" crc="90324912" ref="events"/>
+    <file name="u43556-42.png" crc="4197656106" ref="events"/>
+    <file name="u44854-42.png" crc="469289522" ref="events"/>
+    <file name="u44860-42.png" crc="434601915" ref="events"/>
+    <file name="u44866-62.png" crc="4119301015" ref="events"/>
+    <file name="pho_0244-u189673-fr2.jpg" crc="381958369" ref="events"/>
+    <file name="u189674-42.png" crc="3920425367" ref="events"/>
+    <file name="u43556-43.png" crc="81802418" ref="events"/>
+    <file name="u44854-43.png" crc="505132288" ref="events"/>
+    <file name="u44860-43.png" crc="462957771" ref="events"/>
+    <file name="u44866-63.png" crc="397863779" ref="events"/>
+    <file name="pho_0244-u189673-fr3.jpg" crc="20830246" ref="events"/>
+    <file name="u189674-43.png" crc="4134601879" ref="events"/>
+    <file name="u43556-44.png" crc="481914524" ref="events"/>
+    <file name="u44854-44.png" crc="359840004" ref="events"/>
+    <file name="u44860-44.png" crc="3819204262" ref="events"/>
+    <file name="u44866-64.png" crc="264287968" ref="events"/>
+    <file name="pho_0244-u189673-fr4.jpg" crc="3785804580" ref="events"/>
+    <file name="u189674-44.png" crc="3997979668" ref="events"/>
+    <file name="u43556-45.png" crc="4007649334" ref="events"/>
+    <file name="u44854-45.png" crc="354787597" ref="events"/>
+    <file name="u44860-45.png" crc="360825684" ref="events"/>
+    <file name="u44866-65.png" crc="162010181" ref="events"/>
+    <file name="u189674-45.png" crc="4170705387" ref="events"/>
+    <file name="u43556-46.png" crc="261125938" ref="events"/>
+    <file name="u44854-46.png" crc="4147154302" ref="events"/>
+    <file name="u44860-46.png" crc="261240395" ref="events"/>
+    <file name="u44866-66.png" crc="500854176" ref="events"/>
+    <file name="pho_0244-u189673-fr5.jpg" crc="516121044" ref="events"/>
+    <file name="u189674-46.png" crc="134171485" ref="events"/>
+    <file name="u43556-47.png" crc="4165465303" ref="events"/>
+    <file name="u44854-47.png" crc="3778502469" ref="events"/>
+    <file name="u44860-47.png" crc="4173755698" ref="events"/>
+    <file name="u44866-67.png" crc="4142190748" ref="events"/>
+    <file name="pho_0244-u189673-fr6.jpg" crc="162931073" ref="events"/>
+    <file name="u189674-47.png" crc="3997979668" ref="events"/>
     <file name="20171110-dsc_0046.jpg" crc="41355871" ref="aiesec">
       <caption webpage="aiesec" alt=""/>
     </file>
@@ -3243,14 +3243,14 @@
       <caption webpage="portraits" alt=""/>
     </file>
     <file name="pho_0218.jpg" crc="3931354216" seo="true" ref="portraits:photometria">
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
-      <caption webpage="portraits" alt=""/>
       <caption webpage="photometria" alt=""/>
       <caption webpage="photometria" alt=""/>
       <caption webpage="photometria" alt=""/>
       <caption webpage="photometria" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
+      <caption webpage="portraits" alt=""/>
     </file>
     <file name="pho_0013-2.jpg" crc="60098798" seo="true" ref="portraits">
       <caption webpage="portraits" alt=""/>
@@ -8663,16 +8663,16 @@
       <caption webpage="photometria" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4187824377" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="jobs.html" crc="36768236" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="aiesec.html" crc="4109339921" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="ioan-marathon.html" crc="120347104" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="exavda.html" crc="385271132" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="projects.html" crc="3826637498" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="portraits.html" crc="103946669" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="architecture.html" crc="3866063132" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="nature---landscape.html" crc="374568142" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="urban.html" crc="369986419" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="contact.html" crc="345858175" seo="true" mt="1536366799289" redirect="true"/>
-  <file name="photometria.html" crc="3812109333" seo="true" mt="1536366799289" redirect="true"/>
+  <file name="index.html" crc="338180101" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="events.html" crc="393709100" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="aiesec.html" crc="477261016" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="ioan-marathon.html" crc="4148026445" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="exavda.html" crc="215110496" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="projects.html" crc="4148857577" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="portraits.html" crc="328295912" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="architecture.html" crc="3864225760" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="nature---landscape.html" crc="4091694982" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="urban.html" crc="4264199197" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="contact.html" crc="3900363469" seo="true" mt="1537033322027" redirect="true"/>
+  <file name="photometria.html" crc="3857976876" seo="true" mt="1537033322027" redirect="true"/>
 </manifest>

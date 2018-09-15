@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://phoebuspg.cf/index.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -63,7 +63,7 @@
       <image:loc>http://phoebuspg.cf/images/20171118-dsc_0259128x85.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://phoebuspg.cf/images/20180813_145250114x85.jpg</image:loc>
+      <image:loc>http://phoebuspg.cf/images/20180813_145250117x88.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://phoebuspg.cf/images/20171126-dsc_0037128x85.jpg</image:loc>
@@ -463,8 +463,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://phoebuspg.cf/jobs.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <loc>http://phoebuspg.cf/events.html</loc>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -476,7 +476,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/aiesec.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1211,7 +1211,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/ioan-marathon.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1799,7 +1799,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/exavda.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2069,7 +2069,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/projects.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2081,7 +2081,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/portraits.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2582,7 +2582,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/architecture.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -3077,7 +3077,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/nature---landscape.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4127,7 +4127,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/urban.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5396,7 +5396,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/contact.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5408,7 +5408,7 @@
   </url>
   <url>
     <loc>http://phoebuspg.cf/photometria.html</loc>
-    <lastmod>2018-09-08</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
